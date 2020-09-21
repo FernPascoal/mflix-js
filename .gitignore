@@ -1,3 +1,4 @@
 /dotenv_unix
 /dotenv_win
 /node_modules
+.env
